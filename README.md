@@ -1,4 +1,4 @@
-## I'm a João Alves, Developer Frontend, Backend and Mobile!
+## I'm a João Alves, Developer Frontend!
 
 - 🔭 I’m looking a new job!
 - 🌱 I'm currently learning React deeply and React Native 🤓
