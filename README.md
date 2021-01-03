@@ -1,7 +1,7 @@
 ## I'm a João Alves, Developer Frontend!
 
 - 🔭 I’m looking a new job!
-- 🌱 I'm currently learning React deeply and React Native 🤓
+- 🌱 I'm currently learning React deeply and Next.js 🤓
 - 🥅 2020 Goals: Find a new job, start collaborating with Open source projects and realize personal dreams...
 - ⚡ Fun fact: I love to draw and code 🤭
 
@@ -16,6 +16,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
+<img align="left" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
