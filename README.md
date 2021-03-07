@@ -2,7 +2,7 @@
 
 - 🔭 I’m looking a new job!
 - 🌱 I'm currently learning Three.js and React Three Fiber 🤓
-- 🥅 2020 Goals: Find a new job, start collaborating with Open source projects and realize personal dreams...
+- 🥅 2021 Goals: Find a new job, start collaborating with Open source projects and realize personal dreams...
 - 🤓 Skilled: JavaScript and React ecosystem
 - ⚡ Fun fact: I love to draw and code 🤭
 
