@@ -1,10 +1,10 @@
-## I'm a João Alves, Front-end Developer!
+## I'm a João Alves, Software Developer!
 
-- 🔭 I’m looking a new job!
-- 🌱 I'm currently learning Three.js and React Three Fiber 🤓
-- 🥅 2021 Goals: Find a new job, start collaborating with Open source projects and realize personal dreams...
+- 💼 I’m working as Software engineering at **Reserva.ink**
+- 🌱 I'm currently learning Software design as architecture, patterns, TDD, FDD and whatever 🤓
+- 🥅 2021 Goals: Start collaborating with Open source projects and realize personal dreams...
 - 🤓 Skilled: JavaScript and React ecosystem
-- ⚡ Fun fact: I love to draw and code 🤭
+- ⚡ Fun fact: I love to draw, code and studying 🤭
 
 ### Connect with me:
 
