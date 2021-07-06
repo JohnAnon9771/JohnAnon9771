@@ -1,6 +1,6 @@
 ## I'm a João Alves, Software Developer!
 
-- 💼 I’m working as Software engineering at **Reserva.ink**
+- 💼 I’m working as Software engineering at **Reserva INK**
 - 🌱 I'm currently learning Software design as architecture, patterns, TDD, FDD and whatever 🤓
 - 🥅 2021 Goals: Continue to collaborate with Open source projects and realize personal dreams...
 - 🤓 Skilled: JavaScript/TypeScript and React ecosystem
