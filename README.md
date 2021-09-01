@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Software design as architecture, patterns, TDD, FDD. Also, I'm learning Ruby and Ruby on Rails  🤓
 - 🥅 2021 Goals: Continue to collaborate with Open source projects and realize personal dreams...
 - 🤓 Skilled: JavaScript/TypeScript and React ecosystem
-- ⚡ Fun fact: I love to draw, code and studying 🤭
+- ⚡ About me: I love to draw, code and studying 🤭
 
 ### Connect with me:
 
