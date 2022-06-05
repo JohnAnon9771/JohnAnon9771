@@ -1,9 +1,9 @@
 ## I'm a João Alves, Software Developer!
 
 - 💼 I’m working as Software developer at **Reserva INK**
-- 🌱 I'm currently learning Software design as architecture, patterns, TDD, FDD. Also, I'm learning Ruby and Ruby on Rails  🤓
-- 🥅 2021 Goals: Continue to collaborate with Open source projects and realize personal dreams...
-- 🤓 Skilled: JavaScript/TypeScript and React ecosystem
+- 🌱 I'm currently learning Rust programming language 🤓
+- 🥅 2022 Goals: Continue to collaborate with Open source projects and realize personal dreams...
+- 🤓 Skilled: JavaScript/TypeScript, React ecosystem, Ruby and Ruby on Rails.
 - ⚡ About me: I love to draw, code and studying 🤭
 
 ### Connect with me:
@@ -15,8 +15,8 @@
 <br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
