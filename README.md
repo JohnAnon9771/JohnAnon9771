@@ -43,15 +43,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="JohnAnon9771 Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnAnon9771&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/vesla_panic
 [instagram]: https://instagram.com/jtp_am_ni
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-alves-210891188/
