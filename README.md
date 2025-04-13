@@ -1,39 +1,43 @@
-## I'm a João Alves, Software Developer!
+<h1 align="left">
+  João Alves — a software craftsman 🧵
+</h1>
 
-- 💼 I’m working as Software developer at **Reserva INK**
-- 🌱 I'm currently learning Rust programming language 🤓
-- 🥅 2022 Goals: Continue to collaborate with Open source projects and realize personal dreams...
-- 🤓 Skilled: JavaScript/TypeScript, React ecosystem, Ruby and Ruby on Rails.
-- ⚡ About me: I love to draw, code and studying 🤭
+<p align="left">
+  I write software like someone building something to last.  
+  I treat code like I treat the details of a handwritten letter.  
+</p>
 
-### Languages and Tools:
-<div style="display: flex;">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/e1ce53b10b37a3563ea6a95e7fa1a8dcddeeb271/topics/sass/sass.png" />
+## About me ✨
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+- 💻 Senior Software Developer at **Reserva INK**
+- 🦀 Currently learning Rust to understand the world closer to the metal.
+- 📝 Writing software for humans before machines.
+- 🧩 I love solving hard problems in simple ways.
+- 🎨 Sometimes drawing, sometimes sketching ideas.
 
+## Manifesto of a Software Craftsman 🧶
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+> *I don't code to look smart.*  
+> *I code so the next person reading it can breathe easy.*
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+- Good code doesn't guess. It talks.
+- Method names are promises. Bad names are debt.
+- Tests protect behavior. Clarity protects the mind.
+- Market standards don't rule me. Purpose does.
+- Minimalism isn't doing less. It's doing only what matters.
+- I write software for humans — before machines.
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</div>
-<br />
-<br />
+## Find me around 🔗
+
+- [Twitter][twitter]  
+- [Instagram][instagram]  
+- [LinkedIn][linkedin]  
 
 [twitter]: https://twitter.com/vesla_panic
-[instagram]: https://instagram.com/jtp_am_ni
+[instagram]: https://instagram.com/albus_rb
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-alves-210891188/
+
+
+<p align="center">
+  <i>"Good code feels like it’s always been that way."</i>
+</p>
