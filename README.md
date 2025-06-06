@@ -17,9 +17,6 @@
 
 ## Manifesto of a Software Craftsman 🧶
 
-> *I don't code to look smart.*  
-> *I code so the next person reading it can breathe easy.*
-
 - Good code doesn't guess. It talks.
 - Method names are promises. Bad names are debt.
 - Tests protect behavior. Clarity protects the mind.
