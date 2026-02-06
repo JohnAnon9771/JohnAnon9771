@@ -1,11 +1,6 @@
 <h1 align="left">
-  João Alves — a software craftsman 🧵
+  João Alves
 </h1>
-
-<p align="left">
-  I write software like someone building something to last.  
-  I treat code like I treat the details of a handwritten letter.  
-</p>
 
 ## About me ✨
 
@@ -14,15 +9,6 @@
 - 📝 Writing software for humans before machines.
 - 🧩 I love solving hard problems in simple ways.
 - 🎨 Sometimes drawing, sometimes sketching ideas.
-
-## Manifesto of a Software Craftsman 🧶
-
-- Good code doesn't guess. It talks.
-- Method names are promises. Bad names are debt.
-- Tests protect behavior. Clarity protects the mind.
-- Market standards don't rule me. Purpose does.
-- Minimalism isn't doing less. It's doing only what matters.
-- I write software for humans — before machines.
 
 ## Find me around 🔗
 
